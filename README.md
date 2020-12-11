@@ -1,2 +1,3 @@
 # projects_concepts
-simple programs for calculations
+Simple programs for calculations.
+A place for experimenting with python code, data analytics and simulations.
