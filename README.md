@@ -13,7 +13,8 @@ The waste heat of the furnace is concequently used to heat a water boiler, for b
 In that way the problem of Wednesday (or your waste collection date), is basically solved as instead of plastic waste, small aluminium ingots are created with way smaller volume.
 So in utopic world where everything that is sold in a supermarket is made with cardboard, glass or aluminium, the waste collection would be way simpler, and concepts as ultra high density buildings for students halls or residences in places like Tokyo, could be made.
 * Part 1: A forgotten OpenScad file of a boiler from some of my early CAD adventures.(16/12/2020)
-* Part 2: Recreation on FreeCad.(~28/12/2020)
+* Part 2: Feasibility study by using chemistry and simple thermodynamics.(~28/12/2020)
+* Part 2: Recreation on FreeCad.(~4/12/2020)
 
 ## Project 3:
-A Python project for creating an automatic cat feeder based on Rasberry Pi.(~4/12/2020)
+A Python project for creating an automatic cat feeder based on Rasberry Pi.(~11/12/2020)
