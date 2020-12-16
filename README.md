@@ -16,4 +16,4 @@ So in utopic world where everything that is sold in a supermarket is made with c
 * Part 2: Recreation on FreeCad.(~28/12/2020)
 
 ## Project 3:
-A Python project for creating an automatic cat feeder based on Rasberri Pi.(~4/12/2020)
+A Python project for creating an automatic cat feeder based on Rasberry Pi.(~4/12/2020)
