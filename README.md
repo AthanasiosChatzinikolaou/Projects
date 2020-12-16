@@ -1,4 +1,4 @@
-# Projects concepts
+# Project Concepts
 A place for experimenting with Python code, data analytics and cad designs.
 It is going to be a weekly updated with new material.
 
