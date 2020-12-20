@@ -2,7 +2,7 @@
 A place for experimenting with Python code, data analytics and cad designs.
 It is going to be a weekly updated with new material.
 
-## Project 1: 
+## Project 1: Solar Tracker: 
 Calculating the ideal angle that the solar panels have to be placed, compared to the horizon. 
 * Part 1: Solar tracker (16/12/2020)
 * Part 2: Searching with random steps for every given angle of solar panels compared to the sun position for a whole year (Year resolution 30 min). (21/12/2020)
